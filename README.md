@@ -15,3 +15,6 @@ After getting out 13 boxes, you place the scout house behind box 13
 # Setup Macro ( Macro Only Support Blue Stack )
 > Download Macro Scripts
 - Download [here](https://github.com/SerenityEirlys/Rise-of-KingDooms-Auto-Marco-Bot/releases/download/Bluestack5/auto.train.+.do.suong.json)
+
+> Tutorial Import Macro
+![image](https://github.com/SerenityEirlys/Rise-of-KingDooms-Auto-Marco-Bot/assets/100836558/31f16e9b-50ab-403d-a086-3eb47bc19799)

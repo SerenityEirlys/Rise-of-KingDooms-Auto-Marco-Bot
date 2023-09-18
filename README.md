@@ -1,3 +1,5 @@
+** Please Give Me STAR ** 
+
 # Tutorial
 Build right in the shadow of the house, about 1 box outside, build 13 boxes from the first box
 - You will have 11 bricks left over
@@ -12,4 +14,4 @@ After getting out 13 boxes, you place the scout house behind box 13
 
 # Setup Macro ( Macro Only Support Blue Stack )
 > Download Macro Scripts
-- Download [here](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
+- Download [here](https://github.com/SerenityEirlys/Rise-of-KingDooms-Auto-Marco-Bot/releases/download/Bluestack5/auto.train.+.do.suong.json)

@@ -10,6 +10,6 @@ After getting out 13 boxes, you place the scout house behind box 13
 ![image](https://github.com/SerenityEirlys/Rise-of-KingDooms-Auto-Marco-Bot/assets/100836558/c7c2bed0-e075-4a76-93b2-3578bc94d57a)
 - Build a siege weapon house next to the stables
 
-# Setup Macro 
-> Download Macro
+# Setup Macro ( Macro Only Support Blue Stack )
+> Download Macro Scripts
 - Download [here](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)

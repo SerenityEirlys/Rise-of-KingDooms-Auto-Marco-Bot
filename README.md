@@ -1,4 +1,4 @@
-** Please Give Me STAR ** 
+> **Please Give Me STAR** 
 
 # Tutorial
 Build right in the shadow of the house, about 1 box outside, build 13 boxes from the first box
